@@ -37,16 +37,4 @@ Enter your choice: 1
 🔘 Power ON
 
 
----
 
-## 🧭 Step 3: Upload to GitHub
-
-Follow the same steps you did for Heart Rate Detector:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit - IR Remote Controller project"
-git branch -M main
-git remote add origin https://github.com/<your-username>/IR-Remote.git
-git push -u origin main
